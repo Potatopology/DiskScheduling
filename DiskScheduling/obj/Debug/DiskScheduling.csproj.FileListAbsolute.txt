@@ -1,0 +1,9 @@
+C:\Users\Jerwin\Documents\C# Projects\DiskScheduling\DiskScheduling\bin\Debug\DiskScheduling.exe.config
+C:\Users\Jerwin\Documents\C# Projects\DiskScheduling\DiskScheduling\bin\Debug\DiskScheduling.exe
+C:\Users\Jerwin\Documents\C# Projects\DiskScheduling\DiskScheduling\bin\Debug\DiskScheduling.pdb
+C:\Users\Jerwin\Documents\C# Projects\DiskScheduling\DiskScheduling\obj\Debug\DiskScheduling.csprojResolveAssemblyReference.cache
+C:\Users\Jerwin\Documents\C# Projects\DiskScheduling\DiskScheduling\obj\Debug\DiskScheduling.Form1.resources
+C:\Users\Jerwin\Documents\C# Projects\DiskScheduling\DiskScheduling\obj\Debug\DiskScheduling.Properties.Resources.resources
+C:\Users\Jerwin\Documents\C# Projects\DiskScheduling\DiskScheduling\obj\Debug\DiskScheduling.csproj.GenerateResource.Cache
+C:\Users\Jerwin\Documents\C# Projects\DiskScheduling\DiskScheduling\obj\Debug\DiskScheduling.exe
+C:\Users\Jerwin\Documents\C# Projects\DiskScheduling\DiskScheduling\obj\Debug\DiskScheduling.pdb
